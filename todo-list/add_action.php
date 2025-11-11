@@ -12,5 +12,5 @@
     header('Location: index.php');
 ?>
 
-<!-t->
 <?php require('database_close.php') ?>
+
