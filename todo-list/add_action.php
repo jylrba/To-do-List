@@ -1,3 +1,4 @@
+
 <?php require('database_open.php')?>
 
 <?php
@@ -11,4 +12,5 @@
     header('Location: index.php');
 ?>
 
+<!-t->
 <?php require('database_close.php') ?>
